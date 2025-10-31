@@ -1,0 +1,38 @@
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+footer {
+  margin-top: 3em;
+}
+
+.list-group {
+  border: none;
+  font-size: 0.5em;
+}
+
+.list-group li {
+  border: none;
+}
+
+.form-control {
+  border-radius: 0;
+  background-color: grey;
+}
+
+#profile-body button {
+  border-radius: 0 !important;
+}
+
+.form-check-input:checked {
+  background-color: #6c757d !important;
+  border-color: #6c757d !important;
+}
+
+.form-check-input {
+  border-radius: 0 !important;
+}
